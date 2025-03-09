@@ -19,7 +19,7 @@ public class URI_1005 {
         double A = leitor.nextDouble();
         double B = leitor.nextDouble();
         double media = ((3.5 * A) + (7.5 * B))/11;
-        System.out.println(String.format("Media=%.2f", media));
+        System.out.println(String.format("MEDIA = %.5f", media));
         leitor.close();
     }
 }
