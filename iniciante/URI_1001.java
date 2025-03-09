@@ -43,3 +43,21 @@ public class URI_1001{
         leia.close();
     }
 }
+
+/*import java.util.Scanner;
+
+public class Main { // Alterado de URI_1001 para Main
+    public static void main(String[] args) {
+        Scanner leia = new Scanner(System.in);
+
+        int n1 = leia.nextInt();
+        int n2 = leia.nextInt();
+
+        int r = n1 + n2;
+
+        // A saída precisa seguir o formato exigido pelo Beecrowd
+        System.out.println("X = " + r);
+
+        leia.close();
+    }
+} */
